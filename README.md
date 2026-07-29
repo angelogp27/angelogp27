@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Snake animation](https://raw.githubusercontent.com/angelogp27/angelogp27/output/github-contribution-grid-snake.svg)
+
 <!--
 **angelogp27/angelogp27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
