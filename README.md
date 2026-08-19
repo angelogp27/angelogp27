@@ -1,17 +1,14 @@
-## HHellooo :) !
+# ¡Hola, mundo! 👋
 
-![Snake animation](https://raw.githubusercontent.com/angelogp27/angelogp27/output/github-contribution-grid-snake.svg?v=1)
-<!--
-**angelogp27/angelogp27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante en la Universidad Nacional Mayor de San Marcos (UNMSM) y me desempeño como desarrollador de software. Me apasiona construir soluciones eficientes, orientado desarrollo full-stack, automatización y ciberseguridad. 
 
-Here are some ideas to get you started:
+### 💻 Stack Tecnológico y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Lenguajes Principales:** Java, Python, C, SQL
+*   **Frontend & Móvil:** Angular, Flutter
+
+### 🚀 Sobre mí
+
+*   🌱 Profundizando constantemente en sistemas operativos, automatización de procesos y administración de base de datos.
+*   📝 Mejorando mi nivel de inglés avanzado.
+*   ⚡ Disfruto programar mecánicas de juegos y organizar mis trabajos pendientes para aprovechar el multitasking.
